@@ -54,39 +54,25 @@ python titanic_enhanced_analysis.py
 Dataset: 891 passengers, 12 original features
 
 Data Cleaning: Comprehensive missing value handling
-
 Feature Engineering:
-
 🎯 Age groups (Child, Teen, Adult, Senior)
-
 👑 Passenger titles (Mr, Mrs, Miss, Master, Rare)
-
 👨‍👩‍👧‍👦 Family size categorization
-
 🚢 Deck assignments from cabin numbers
-
 🏷️ Alone vs. with family status
 
 📊 Statistical Analysis
 Descriptive Statistics: Survival rates by all major factors
-
 Hypothesis Testing: Chi-square and t-tests for significance
-
 Correlation Analysis: Identifying key predictors
-
 Visual Analytics: Comprehensive plot generation
 
 🎨 Visualization Suite
 The analysis generates multiple advanced visualizations including:
-
 📈 Survival rate comparisons across categories
-
 👥 Demographic distributions
-
 🔥 Correlation heatmaps
-
 📋 Statistical significance charts
-
 🎯 Interactive survival probability plots
 
 💡 Major Insights Breakdown
@@ -124,14 +110,9 @@ Interpretation: Family ties provided significant survival advantage, possibly du
 📈 Statistical Summary: Detailed numerical analysis
 
 🔑 Key Insights Document: Executive summary of findings
-
 🖼️ Visualizations
 Survival rate comparisons
-
 Demographic analysis charts
-
 Statistical significance plots
-
 Correlation matrices
-
 Advanced EDA plots
