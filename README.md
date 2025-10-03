@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-https://img.shields.io/badge/Internship-Elevvo-orange
+![Internship](https://img.shields.io/badge/Internship-Elevvo-orange)
 
 A comprehensive exploratory data analysis of the Titanic passenger dataset, revealing critical insights into survival patterns and factors that influenced life-and-death outcomes during the historic disaster.
 
