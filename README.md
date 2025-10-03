@@ -31,14 +31,6 @@ This enhanced analysis provides deep statistical insights into the Titanic disas
 - ⚠️ **Borderline**: Age (p=0.0528)
 - ❌ **Not Significant**: Family Size
 
-## 🗂️ Project Structure
-titanic-analysis/
-├── 📊 titanic_enhanced_analysis.py # Main analysis script
-├── 📁 enhanced_plots/ # Generated visualizations
-├── 📄 titanic_analysis_report.pdf # Professional PDF report
-├── 🔑 KEY INSIGHTS.txt # Summary of findings
-└── 📖 README.md # This file
-
 ## ⚡ Quick Start
 
 ### Prerequisites
@@ -46,10 +38,9 @@ titanic-analysis/
 - Required packages: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn
 
 ### Installation & Execution
-
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/titanic-survival-analysis.git
+git clone https://github.com/Dianawats/titanic-analysis.git
 cd titanic-survival-analysis
 
 # Install dependencies
@@ -57,3 +48,90 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
 # Run the comprehensive analysis
 python titanic_enhanced_analysis.py
+
+🔍 Analysis Features
+🛠️ Data Processing
+Dataset: 891 passengers, 12 original features
+
+Data Cleaning: Comprehensive missing value handling
+
+Feature Engineering:
+
+🎯 Age groups (Child, Teen, Adult, Senior)
+
+👑 Passenger titles (Mr, Mrs, Miss, Master, Rare)
+
+👨‍👩‍👧‍👦 Family size categorization
+
+🚢 Deck assignments from cabin numbers
+
+🏷️ Alone vs. with family status
+
+📊 Statistical Analysis
+Descriptive Statistics: Survival rates by all major factors
+
+Hypothesis Testing: Chi-square and t-tests for significance
+
+Correlation Analysis: Identifying key predictors
+
+Visual Analytics: Comprehensive plot generation
+
+🎨 Visualization Suite
+The analysis generates multiple advanced visualizations including:
+
+📈 Survival rate comparisons across categories
+
+👥 Demographic distributions
+
+🔥 Correlation heatmaps
+
+📋 Statistical significance charts
+
+🎯 Interactive survival probability plots
+
+💡 Major Insights Breakdown
+1. Gender Disparity 🚺 vs 🚹
+Gender	Survival Rate	Advantage
+Women	74.2%	🟢 +55.3% higher
+Men	18.9%	🔴 Significant disadvantage
+Interpretation: Clear evidence of "women and children first" protocol being followed during evacuation.
+
+2. Class Inequality 💰
+Class	Survival Rate	Difference from 1st Class
+1st Class	62.96%	Baseline
+2nd Class	47.28%	🔻 -15.68%
+3rd Class	24.24%	🔻 -38.72%
+Interpretation: Strong correlation between wealth/social status and survival chances, with nearly 40% difference between first and third class.
+
+3. Age-Based Patterns 👶 → 👴
+Age Group	Survival Rate	Priority Level
+Children	57.97%	🟢 High Priority
+Teens	42.86%	🟡 Medium Priority
+Adults	35.33%	🟡 Medium Priority
+Seniors	22.73%	🔴 Low Priority
+Interpretation: Age was a significant factor in rescue priorities, with children receiving preferential treatment.
+
+4. Social Connections 👨‍👩‍👧‍👦
+Status	Survival Rate	Advantage
+With Family	50.56%	🟢 +20.21% higher
+Alone	30.35%	Baseline
+Interpretation: Family ties provided significant survival advantage, possibly due to coordinated evacuation efforts.
+
+📋 Outputs Generated
+📄 Reports
+📊 Professional PDF Report: Comprehensive analysis with visualizations
+
+📈 Statistical Summary: Detailed numerical analysis
+
+🔑 Key Insights Document: Executive summary of findings
+
+🖼️ Visualizations
+Survival rate comparisons
+
+Demographic analysis charts
+
+Statistical significance plots
+
+Correlation matrices
+
+Advanced EDA plots
