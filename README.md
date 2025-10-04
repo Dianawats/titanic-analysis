@@ -108,10 +108,10 @@ Interpretation: Family ties provided significant survival advantage, possibly du
 📄 Reports
 📊 Professional PDF Report: Comprehensive analysis with visualizations
 
-📈 Statistical Summary: Detailed numerical analysis
+## 📈 Statistical Summary: Detailed numerical analysis
 
-🔑 Key Insights Document: Executive summary of findings
-🖼️ Visualizations
+### 🔑 Key Insights Document: Executive summary of findings
+###  🖼️ Visualizations
 Survival rate comparisons
 Demographic analysis charts
 Statistical significance plots
