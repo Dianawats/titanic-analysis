@@ -40,14 +40,14 @@ This enhanced analysis provides deep statistical insights into the Titanic disas
 
 ### Installation & Execution
 ```bash
-# Clone the repository
+Clone the repository
 git clone https://github.com/Dianawats/titanic-analysis.git
 cd titanic-survival-analysis
 
-# Install dependencies
+Install dependencies
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
-# Run the comprehensive analysis
+Run the comprehensive analysis
 python titanic_enhanced_analysis.py
 
 🔍 Analysis Features
@@ -62,7 +62,7 @@ Feature Engineering:
 🚢 Deck assignments from cabin numbers
 🏷️ Alone vs. with family status
 
-### 📊 Statistical Analysis
+📊 Statistical Analysis
 Descriptive Statistics: Survival rates by all major factors
 Hypothesis Testing: Chi-square and t-tests for significance
 Correlation Analysis: Identifying key predictors
@@ -108,17 +108,17 @@ Interpretation: Family ties provided significant survival advantage, possibly du
 📄 Reports
 📊 Professional PDF Report: Comprehensive analysis with visualizations
 
-## 📈 Statistical Summary: Detailed numerical analysis
+📈 Statistical Summary: Detailed numerical analysis
 
-### 🔑 Key Insights Document: Executive summary of findings
-###  🖼️ Visualizations
+🔑 Key Insights Document: Executive summary of findings
+🖼️ Visualizations
 Survival rate comparisons
 Demographic analysis charts
 Statistical significance plots
 Correlation matrices
 Advanced EDA plots
 
-## 📚 Methodology
+📚 Methodology
 🔬 Data Sources
 Primary dataset: Titanic passenger records (891 observations)
 
@@ -137,21 +137,21 @@ T-tests for continuous variables
 Confidence interval analysis
 Effect size measurements
 
-## 🏆 Internship Acknowledgement
+🏆 Internship Acknowledgement
 📅 Project Duration: One Month
 🏢 Organization: Elevvo
 🎯 Objective: Comprehensive data analysis and visualization project
 📊 Skills Demonstrated: Data cleaning, statistical analysis, feature engineering, visualization, insight generation
 
-### This project was developed as part of my data analytics internship at Elevvo, demonstrating practical application of statistical analysis and data storytelling techniques on real-world historical data.
+This project was developed as part of my data analytics internship at Elevvo, demonstrating practical application of statistical analysis and data storytelling techniques on real-world historical data.
 
-## 📄 License
+📄 License
 This project is open source and available under the MIT License.
 
-## 👥 Contributing
+👥 Contributing
 Contributions, issues, and feature requests are welcome!
 
-### ⭐ Acknowledgments
+⭐ Acknowledgments
 Elevvo for the internship opportunity and guidance
 Titanic dataset providers and maintainers
 Open-source data science community
